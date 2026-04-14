@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# One-Day Marathon Training Meal Plan\n**Vegan, Dairy-Free, High-Carbohydrate Loading**\n\n---\n\n## Daily Nutritional Targets\n- **Calories:** 3,200 kcal\n- **Carbohydrates:** 520g (65%)\n- **Protein:** 112g (14%)\n- **Fat:** 80g (21%)\n\n---\n\n## Meal Schedule\n\n### **Pre-Dawn Meal** \u23f0 5:30 AM\n*Before 20km training run*\n\n**Banana & Almond Butter Toast**\n- White bread: 60g (2 slices)\n- Almond butter: 32g (2 tbsp)\n- Banana: 100g (1 medium)\n- Maple syrup: 15g (1 tbsp)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 380 kcal |\n| Carbs | 48g |\n| Protein | 10g |\n| Fat | 16g |\n\n---\n\n### **Post-Run Recovery Meal** \u23f0 8:30 AM\n*Within 30 minutes after training*\n\n**Oatmeal with Berries & Coconut**\n- Rolled oats: 80g (\u00be cup dry)\n- Almond milk: 240ml (1 cup)\n- Mixed berries (frozen): 120g (1 cup)\n- Coconut oil: 15g (1 tbsp)\n- Honey: 20g (1.5 tbsp)\n- Chia seeds: 15g (2 tbsp)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 520 kcal |\n| Carbs | 72g |\n| Protein | 12g |\n| Fat | 18g |\n\n---\n\n### **Mid-Morning Snack** \u23f0 11:00 AM\n\n**Dates & Mixed Nuts**\n- Medjool dates: 80g (4 dates)\n- Raw almonds: 30g (\u00bc cup)\n- Cashews: 20g (3 tbsp)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 340 kcal |\n| Carbs | 38g |\n| Protein | 10g |\n| Fat | 18g |\n\n---\n\n### **Lunch** \u23f0 1:00 PM\n\n**Chickpea & Quinoa Buddha Bowl**\n- Cooked quinoa: 180g (\u00be cup)\n- Canned chickpeas (drained): 150g (\u00be cup)\n- Olive oil: 20g (1.5 tbsp)\n- Roasted sweet potato: 150g (1 medium)\n- Spinach (raw): 80g (2 cups)\n- Cherry tomatoes: 100g (\u00be cup)\n- Lemon juice: 10ml (\u00bd tbsp)\n- Sea salt & pepper: to taste\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 620 kcal |\n| Carbs | 92g |\n| Protein | 22g |\n| Fat | 16g |\n\n---\n\n### **Afternoon Snack** \u23f0 4:00 PM\n\n**Energy Balls**\n- Rolled oats: 40g (\u2153 cup)\n- Almond butter: 32g (2 tbsp)\n- Dates (pitted): 60g (3 dates)\n- Cocoa powder: 10g (1 tbsp)\n- Vanilla extract: 3ml (\u00bd tsp)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 310 kcal |\n| Carbs | 36g |\n| Protein | 10g |\n| Fat | 14g |\n\n---\n\n### **Dinner** \u23f0 7:00 PM\n\n**Lentil & Vegetable Pasta**\n- Whole wheat pasta: 100g (dry weight)\n- Red lentils",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Marathon training - high-endurance preparation with carbohydrate loading for a 20km training run scheduled at 7:00 AM",
+        "restrictions": "No dairy, vegan diet"
+      },
+      "solution_criteria": [
+        "Meal plan contains exactly 4-5 meals distributed throughout the day with specific timing",
+        "Total daily caloric intake supports endurance training (approximately 3000-3500 calories)",
+        "Carbohydrate-rich meals strategically timed before and after the 7:00 AM training session",
+        "All meals comply with vegan dietary restriction and exclude dairy products"
+      ],
+      "task_description": "Write a compact , concise 1 day meail plan for a single athlete",
+      "scenario": "Testing with a high-endurance athlete (marathon runner) requiring high caloric intake and carbohydrate loading, with specific timing for training sessions"
+    },
+    "score": 3,
+    "reasoning": "The solution demonstrates excellent planning and structure with appropriate timing for endurance training and full compliance with dietary restrictions. However, it fails a MANDATORY requirement by being incomplete - the dinner meal is cut off mid-sentence, preventing verification of the total daily caloric intake and complete macronutrient breakdown. While the incomplete portion appears to be a formatting/truncation error rather than a conceptual flaw, the mandatory requirements explicitly state the output must include 'Daily calory total' and 'Macronutrient breakdown,' which cannot be verified in the current state. This is an automatic failure condition per the scoring guidelines."
+  },
+  {
+    "output": "# One-Day Soccer Training Meal Plan\n**High-Performance Endurance Maintenance**\n\n---\n\n## Daily Nutritional Targets\n- **Calories:** 3,100 kcal\n- **Carbohydrates:** 434g (56%)\n- **Protein:** 124g (16%)\n- **Fat:** 86g (25%)\n\n---\n\n## Meal Schedule\n\n### **Breakfast** \u23f0 7:00 AM\n*Post-wake, pre-training fuel*\n\n**Oatmeal with Berries & Eggs**\n- Rolled oats: 80g\n- Whole milk: 240ml (8 fl oz)\n- Eggs (large): 70g (2 whole eggs)\n- Blueberries: 100g (fresh)\n- Honey: 20g (1.5 tbsp)\n- Almonds: 28g (23 almonds)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 580 kcal |\n| Carbs | 68g |\n| Protein | 22g |\n| Fat | 22g |\n\n---\n\n### **Mid-Morning Snack** \u23f0 10:00 AM\n*2 hours before training*\n\n**Banana & Greek Yogurt**\n- Greek yogurt (plain): 180g\n- Banana: 120g (1 large)\n- Granola: 40g\n- Drizzle of honey: 15g (1 tbsp)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 320 kcal |\n| Carbs | 52g |\n| Protein | 16g |\n| Fat | 6g |\n\n---\n\n### **Lunch** \u23f0 1:00 PM\n*Post-training recovery meal*\n\n**Grilled Chicken with Rice & Vegetables**\n- Chicken breast (skinless): 200g\n- White basmati rice (cooked): 220g\n- Broccoli (steamed): 150g\n- Olive oil: 15ml (1 tbsp)\n- Sea salt & pepper: to taste\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 650 kcal |\n| Carbs | 78g |\n| Protein | 52g |\n| Fat | 10g |\n\n---\n\n### **Afternoon Snack** \u23f0 4:00 PM\n*Pre-evening training preparation*\n\n**Peanut Butter & Whole Wheat Sandwich**\n- Whole wheat bread: 56g (2 slices)\n- Peanut butter: 32g (2 tbsp)\n- Apple: 182g (1 medium)\n- Low-fat milk: 240ml (8 fl oz)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 520 kcal |\n| Carbs | 58g |\n| Protein | 20g |\n| Fat | 24g |\n\n---\n\n### **Dinner** \u23f0 7:30 PM\n*Evening recovery & repair*\n\n**Lean Ground Beef with Sweet Potato & Spinach**\n- Lean ground beef (90/10): 180g\n- Sweet potato (baked): 200g\n- Spinach (saut\u00e9ed): 100g\n- Olive oil: 10ml (2 tsp)\n- Garlic & herbs: to taste\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 530 kcal |\n| Carbs | 55g |\n| Protein | 42g |\n| Fat | 15g |\n\n---\n\n### **Evening Beverage** \u23f0 9:00 PM\n*Before bed - recovery support*\n\n**Whole Milk with Casein*\n- Whole milk: 300ml (10 fl oz)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 200 kcal |\n| Carbs | 15g |\n| Protein | 10g |\n| Fat | 11g |\n\n---\n\n## Daily Summary",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "182 cm",
+        "weight": "78 kg",
+        "goal": "Maintain performance and endurance for competitive soccer training",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Includes 4-5 meals/snacks timed around morning and evening training sessions",
+        "Specifies balanced macronutrients (carbs, protein, fats) appropriate for soccer endurance",
+        "Includes hydration strategy with specific fluid intake recommendations",
+        "Presented in compact, concise format suitable for quick reference"
+      ],
+      "task_description": "Write a compact , concise 1 day meail plan for a single athlete",
+      "scenario": "Testing with a sport-specific athlete (soccer player) needing balanced macronutrients, hydration strategy, and meal timing around morning and evening training sessions"
+    },
+    "score": 6,
+    "reasoning": "The solution meets all three mandatory requirements with precision: daily calorie total is clearly stated (3,100 kcal), macronutrient breakdown is provided both in absolute grams and percentages, and all 5 meals include exact foods with specific quantities and portion sizes. The meal plan is well-organized and compact. However, it fails to address the hydration strategy criterion, which is explicitly listed in the secondary criteria. The abrupt ending with an incomplete 'Daily Summary' section also suggests the solution was not fully completed. While the core nutritional content is strong, the missing hydration guidance and incomplete summary represent notable deficiencies in meeting the full scope of stated requirements."
+  },
+  {
+    "output": "# One-Day Strength & Muscle Building Meal Plan\n**Competitive Weightlifting Preparation**\n\n---\n\n## Daily Nutritional Targets\n- **Calories:** 3,400 kcal\n- **Protein:** 170g (20%)\n- **Carbohydrates:** 425g (50%)\n- **Fat:** 95g (25%)\n\n*Based on: 178cm, 85kg athlete; caloric surplus for muscle gain*\n\n---\n\n## Meal Schedule\n\n### **Breakfast** \u23f0 7:00 AM\n\n**Oatmeal with Eggs & Berries**\n- Rolled oats: 80g (\u00be cup dry)\n- Whole eggs: 100g (2 large)\n- Blueberries: 120g (1 cup)\n- Honey: 20g (1.5 tbsp)\n- Whole milk: 240ml (1 cup)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 520 kcal |\n| Carbs | 58g |\n| Protein | 22g |\n| Fat | 18g |\n\n---\n\n### **Mid-Morning Snack** \u23f0 10:00 AM\n\n**Protein Smoothie**\n- Banana: 120g (1 large)\n- Greek yogurt: 150g (\u2154 cup)\n- Whey protein powder: 30g (1 scoop)\n- Peanut butter: 32g (2 tbsp)\n- Oat milk: 240ml (1 cup)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 420 kcal |\n| Carbs | 42g |\n| Protein | 32g |\n| Fat | 14g |\n\n---\n\n### **Pre-Workout Meal** \u23f0 12:30 PM\n*90 minutes before training session*\n\n**Chicken & Rice Bowl**\n- Chicken breast (cooked): 150g\n- White rice (cooked): 200g (1 cup)\n- Olive oil: 10ml (2 tsp)\n- Sea salt: 3g\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 480 kcal |\n| Carbs | 60g |\n| Protein | 42g |\n| Fat | 8g |\n\n---\n\n### **Post-Workout Shake** \u23f0 3:00 PM\n*Within 30 minutes after training*\n\n**Recovery Shake**\n- Whey protein powder: 40g (1.3 scoops)\n- Dextrose powder: 40g (3 tbsp)\n- Banana: 100g (1 medium)\n- Whole milk: 300ml (1.25 cups)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 380 kcal |\n| Carbs | 75g |\n| Protein | 35g |\n| Fat | 5g |\n\n---\n\n### **Dinner** \u23f0 7:00 PM\n\n**Beef & Sweet Potato**\n- Lean ground beef (90/10): 200g (cooked)\n- Sweet potato: 250g (1 large, baked)\n- Broccoli: 150g (2 cups, steamed)\n- Butter: 10g (2 tsp)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 550 kcal |\n| Carbs | 120g |\n| Protein | 38g |\n| Fat | 32g |\n\n---\n\n### **Evening Snack** \u23f0 9:30 PM\n\n**Casein Protein + Almonds**\n- Casein protein powder: 30g (1 scoop)\n- Raw almonds: 28g (23 nuts)\n- Whole milk: 240ml (1 cup)\n\n| Nutrients | Amount |\n|-----------|--------|\n| Calories | 340 kcal |\n| Carbs | 15g |\n| Protein |",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "85 kg",
+        "goal": "Maximize strength and muscle gain for competitive weightlifting",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan spans exactly 1 day with 4-5 meals",
+        "Protein distributed across meals (minimum 2.0g per kg bodyweight daily, ~170g total)",
+        "Includes pre- and post-lifting nutrition timed around heavy training session",
+        "Compact format with meal names, macros, and brief descriptions only"
+      ],
+      "task_description": "Write a compact , concise 1 day meail plan for a single athlete",
+      "scenario": "Testing with a strength/power athlete (weightlifter) focusing on protein distribution and recovery nutrition around heavy lifting sessions"
+    },
+    "score": 8,
+    "reasoning": "The solution meets all mandatory requirements with a well-structured, compact 1-day meal plan containing 6 meals with exact quantities, daily calorie total, and macronutrient breakdown. The meal timing is excellent for a weightlifter with proper pre/post-workout nutrition. However, the incomplete protein data in the final meal's nutrition table is a data integrity issue that prevents full verification of the daily totals. The protein percentage is also slightly conservative for the stated goal, though the absolute protein amount (170g) is appropriate. These are secondary issues that don't violate mandatory requirements but represent minor deficiencies in execution."
+  }
+]
